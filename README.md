@@ -1,4 +1,4 @@
-# Email Sender Interface
+# Email Sender
 > A class library to encapulate email sending process, that works like an adapter. Just plug and send emails.
 
 ## Features
